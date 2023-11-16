@@ -1,4 +1,10 @@
+/* Basic calculator app
 
+    Calculator specifications:
+    Create a calculator for the browser, with the restriction that no calculations may take place in the browser.
+    Calculations must be done on the server. 
+    JavaScript, C#(or some other object oriented language are allowed to be used.
+    It must be responsive, so it should work well on both mobile and desktop. */
 
 class CalculatorApp {
     constructor(firstInputText, secondInputText) {
